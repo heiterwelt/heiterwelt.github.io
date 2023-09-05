@@ -1,6 +1,6 @@
 {
-    "name": "flutter_web",
-    "short_name": "flutter_web",
+    "name": "ipadownload",
+    "short_name": "ipadownload",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
